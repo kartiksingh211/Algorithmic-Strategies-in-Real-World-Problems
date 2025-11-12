@@ -1,7 +1,7 @@
 # Algorithmic-Strategies-in-Real-World-Problems
 
 Course: Design and Analysis of Algorithms (ENCA351) - Semester V 
-#LAB ASSIGNMENT - 2
+LAB ASSIGNMENT - 2
 
 ## Overview
 This notebook demonstrates 4 algorithmic strategies applied to real-world problems:
