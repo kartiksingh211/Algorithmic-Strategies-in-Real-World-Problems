@@ -32,8 +32,6 @@ This notebook demonstrates 4 algorithmic strategies applied to real-world proble
 
 ## Files
 - `algo_strategies_notebook.ipynb`: main notebook with code, plots, and explanation
-- `images/`: plots exported from experiments
-- `requirements.txt`: required packages
 
 ## Notes & Academic Integrity
 This is an individual assignment. All code and writeups are authored by <Kartik Singh>.
