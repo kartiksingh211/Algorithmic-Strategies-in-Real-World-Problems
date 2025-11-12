@@ -1,5 +1,36 @@
-# Object file
-*.o
+# Virtual environment folders
+venv/
+env/
 
-# Ada Library Information
-*.ali
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# Environment variables or secret files
+.env
+
+# Build or distribution folders (if any)
+build/
+dist/
+*.egg-info/
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Optional: large datasets (uncomment if you don’t want to push CSVs)
+# *.csv
+# *.xlsx
